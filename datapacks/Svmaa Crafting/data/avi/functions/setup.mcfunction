@@ -5,4 +5,4 @@ scoreboard objectives add offhandCBlock dummy
 
 scoreboard add raycasting dummy
 
-tellraw @a {"text":"[Reloaded]","color":"dark_green"}
+tellraw @a {"text":"[Reloaded]","color":"green"}
