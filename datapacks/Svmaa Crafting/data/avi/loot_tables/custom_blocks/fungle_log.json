@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dropper",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"Fungle Log\",\"color\":\"aqua\"}'},CustomModelData:100001,customBlockId:0,BlockEntityTag:{Lock:\"IsCustomBlock:1\"}} 1\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

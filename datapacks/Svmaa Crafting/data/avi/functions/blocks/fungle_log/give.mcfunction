@@ -1,0 +1,1 @@
+loot give @s loot avi:loot_tables/custom_blocks/fungle_log.json

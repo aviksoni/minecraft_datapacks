@@ -1,0 +1,2 @@
+execute if entity @s[scores={currentCBlock=1}] align xyz positioned ~0.5 ~ ~0.5 run function avi:blocks/fungle_log/place
+execute if entity @s[scores={currentCBlock=1,offhandCBlock=1}] align xyz positioned ~0.5 ~ ~0.5 run function avi:blocks/fungle_log/place
